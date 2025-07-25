@@ -32,22 +32,8 @@ Zidio Connect is a secure and scalable web application built using **Spring Boot
 ---
 
 ## 📁 Project Structure
-zidio-connect/
-├── backend/
-│   ├── src/
-│   │   ├── main/
-│   │   │   ├── java/com/example/zidio/       # Core backend logic (controllers, services, models, etc.)
-│   │   │   └── resources/                    # Configuration files (application.properties, etc.)
-│   │   └── test/                             # Unit & Integration tests
-│   ├── .gitignore
-│   ├── .gitattributes
-│   ├── mvnw / mvnw.cmd
-│   ├── pom.xml                               # Maven dependencies and build config
-│
-├── frontend/
-│   ├── index.html                            # Main HTML file
-│   ├── style.css                             # CSS styling
-│   ├── main.js                               # JavaScript logic
-│
-└── README.md                                 # Project overview (this file)
+
+<img width="826" height="505" alt="image" src="https://github.com/user-attachments/assets/1b9823c9-f661-45bc-a70b-5c267e43dcf7" />
+
+
 
