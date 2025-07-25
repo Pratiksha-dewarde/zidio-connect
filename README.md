@@ -22,6 +22,7 @@ Zidio Connect is a secure and scalable web application built using **Spring Boot
 |----------------------|------------------------------------|
 | Java 17              | Programming Language               |
 | Spring Boot          | Backend framework                  |
+| Frontend     | HTML, CSS, JavaScript (or React, Vue, etc.) |
 | Spring Security      | Authentication and Authorization   |
 | JWT (jjwt)           | Token-based security               |
 | Spring Data JPA      | ORM and database interaction       |
@@ -31,4 +32,19 @@ Zidio Connect is a secure and scalable web application built using **Spring Boot
 ---
 
 ## 📁 Project Structure
-
+zidio-connect/
+├── backend/
+│ ├── src/
+│ │ ├── main/
+│ │ │ ├── java/com/example/zidio/ # Core backend logic
+│ │ │ └── resources/ # Configuration files
+│ │ └── test/ # Unit & Integration tests
+│ ├── .gitignore
+│ ├── .gitattributes
+│ ├── mvnw / mvnw.cmd
+│ ├── pom.xml # Maven dependencies
+├── frontend/
+│ ├── index.html # Main HTML
+│ ├── style.css # Styling
+│ ├── main.js # JavaScript logic
+└── README.md # Project overview (this file)
